@@ -10,3 +10,4 @@ for elem in result:
     print(elem)
 
 con.close()
+
